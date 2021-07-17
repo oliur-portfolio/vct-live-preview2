@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Inter-ExtraBold";
+    src: url("Inter-ExtraBold.ttf") format("truetype"), url("Inter-ExtraBold.woff") format("woff"), url("Inter-ExtraBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Inter-Bold";
+    src: url("Inter-Bold.ttf") format("truetype"), url("Inter-Bold.woff") format("woff"), url("Inter-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Inter-SemiBold";
+    src: url("Inter-SemiBold.ttf") format("truetype"), url("Inter-SemiBold.woff") format("woff"), url("Inter-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Inter-Medium";
+    src: url("Inter-Medium.ttf") format("truetype"), url("Inter-Medium.woff") format("woff"), url("Inter-Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Inter-Regular";
+    src: url("Inter-Regular.ttf") format("truetype"), url("Inter-Regular.woff") format("woff"), url("Inter-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Inter-Light";
+    src: url("Inter-Light.ttf") format("truetype"), url("Inter-Light.woff") format("woff"), url("Inter-Light.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Signify2-Regular";
+    src: url("Signify2-Regular.ttf") format("truetype"), url("Signify2-Regular.woff") format("woff"), url("Signify2-Regular.woff2") format("woff2");
+}

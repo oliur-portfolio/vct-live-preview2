@@ -1,0 +1,368 @@
+@media (max-width: 1549.98px) {
+    .box-text {
+        width: 37vw;
+    }
+
+    .single-box-inner {
+        padding-bottom: 40px;
+    }
+
+    .single-box-image {
+        top: -55px;
+    }
+
+    .banner-area {
+        padding-top: 30px;
+    }
+
+    .single-image {
+        max-height: 38vh;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    .box-text {
+        width: 35vw;
+    }
+
+    .single-box-image {
+        height: 600px;
+    }
+
+    .banner-content h1,
+    .banner-content h1 span {
+        font-size: 56px;
+    }
+
+    .banner-content p {
+        font-size: 26px;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        line-height: 24px;
+        font-size: 16px;
+    }
+
+    .countup-number p {
+        font-size: 24px;
+    }
+
+    .fuel-lbs-area {
+        max-width: 850px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .box-text {
+        width: 38vw;
+    }
+
+    .single-box-image {
+        height: 650px;
+    }
+
+    .contact-us {
+        padding: 56px 0;
+    }
+
+    .contact-content {
+        flex-direction: column;
+    }
+
+    .contact-btn a {
+        margin-top: 30px;
+        margin-right: 0;
+    }
+
+    .mbl-img-hide {
+        display: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .desktop-menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        padding-top: 120px;
+        background: #fff;
+        z-index: 99;
+        transition: all 0.2s linear;
+        -webkit-transition: all 0.2s linear;
+        -moz-transition: all 0.2s linear;
+        -ms-transition: all 0.2s linear;
+        -o-transition: all 0.2s linear;
+    }
+
+    .menu-visible {
+        display: block;
+    }
+
+    main.main-hidden {
+        overflow: auto;
+        height: 0px;
+    }
+
+    footer.menu-overflow1 {
+        display: none;
+    }
+
+    .banner-content h1 span {
+        display: inline;
+    }
+
+    .fuel-lbs-area {
+        max-width: 500px;
+        padding-right: 7px;
+    }
+
+    .fuel-area,
+    .lbs-area {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        margin-left: 0;
+        margin-top: 6px;
+    }
+
+    .image-down-icon {
+        width: 20px;
+        bottom: 40px;
+    }
+
+    .section-title h3 {
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .single-box-image {
+        height: auto;
+        width: 100%;
+        top: -95%;
+    }
+
+    .box-text {
+        width: 100%;
+    }
+
+    .single-box-text {
+        margin-top: 550px;
+    }
+
+    .center-details-content p {
+        max-width: 600px;
+    }
+
+    .contact-text p {
+        max-width: 600px;
+    }
+
+    .nav-cover {
+        position: relative;
+    }
+
+    [type="button"]:focus-visible,
+    [type="reset"]:focus-visible,
+    [type="submit"]:focus-visible,
+    button:focus-visible {
+        outline: 0px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-nav li {
+        margin-bottom: 30px;
+    }
+
+    .navbar-nav li:first-child {
+        margin-top: 30px;
+    }
+
+    .navbar-nav li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .single-box-image {
+        top: -55%;
+    }
+
+    .single-box-text {
+        margin-top: 430px;
+    }
+
+    .navbar-brand {
+        width: 130px;
+        margin-top: 18px;
+    }
+
+    .contact-text p {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .navbar-toggler {
+        right: 30px;
+    }
+
+    .banner-area {
+        padding-top: 50px;
+    }
+
+    .banner-content h1,
+    .banner-content h1 span {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .banner-content p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .banner-content p span {
+        display: block;
+    }
+
+    .countup-number p {
+        font-size: 18px;
+        width: 135px;
+        letter-spacing: 1px;
+        margin: 0;
+    }
+
+    .fuel-text p,
+    .lbs-text p {
+        font-size: 13px;
+        line-height: 16px;
+        margin: 0;
+        margin-top: 6px;
+    }
+
+    .image-down-icon {
+        width: 14px;
+    }
+
+    .single-image {
+        max-height: 30vh;
+    }
+
+    .single-box-image {
+        top: -24%;
+        height: 200px;
+    }
+
+    .single-box-text {
+        margin-top: 220px;
+    }
+
+    .section-title h3 {
+        font-size: 24px;
+        max-width: 300px;
+    }
+
+    .box-text h5 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .box-para-text p {
+        font-size: 15px;
+    }
+
+    .learn-btn a {
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .single-box-text .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .single-box-inner {
+        padding-left: 17px;
+        padding-right: 23px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .center-details-content h5 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .center-details-content h5 span {
+        display: block;
+        font-weight: 700;
+    }
+
+    .center-details-content p {
+        font-size: 15px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+
+    .center-details-content {
+        padding-top: 33px;
+        padding-bottom: 42px;
+    }
+
+    .contact-text p {
+        font-size: 15px;
+        margin-left: 0;
+    }
+
+    .contact-text p {
+        max-width: 100%;
+    }
+
+    .footer-area {
+        padding-top: 40px;
+    }
+
+    .footer-social-list {
+        margin-bottom: 20px;
+    }
+
+    .footer-social-list li {
+        width: 30px;
+        height: 30px;
+        margin-left: 12px;
+    }
+
+    .footer-social-list li a svg {
+        width: 16px;
+        margin-top: -3px;
+    }
+
+    .footer-content p {
+        font-size: 14px;
+    }
+}
